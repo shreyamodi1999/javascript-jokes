@@ -51,7 +51,11 @@ Question: What are the similarities between java and javascript?
 It's just like , CAR and CARPET(CAR-pet) {JAVA and JAVA-script)
 
 ---
+In Friendships and Relationships: Unfulfilled promises lead to loss of trust
+Enter JavaScript: "Choose what you want to do with the promise. Fun fact, you can remove them and it will be like they never existed."
+Me: "Umm did I just found a reason to like JavaScript :O "
 
+---
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 ---
